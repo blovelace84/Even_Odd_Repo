@@ -9,9 +9,9 @@ int main()
 
  //check if the the number is even or odd
  if(number % 2 == 0) {
-    printf("Your %d is even \n", number);
+    printf("%d is an even number. \n", number);
  }else{
-    printf("Your %d is odd \n", number);
+    printf("%d is an odd number. \n", number);
  }
 
  return 0;
